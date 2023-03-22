@@ -76,11 +76,9 @@ Run This command
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
--
+
 
 ### Install
-
-Install this project with:
 
 
 Run This command
@@ -135,7 +133,7 @@ I would like to thank Microverse for creating such wonderful opportunity for tho
 
 - How to use this repository
 
-  - Run this command in your terminal "git clone 
+  - Run this command in your terminal "git clone https://github.com/Esmatullah12/Hello-Microverse.git"
 
 - What is this project for
   - it is does not have any special uses
