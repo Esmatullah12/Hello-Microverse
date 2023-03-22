@@ -22,13 +22,11 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> This is the first project for sitting up all the tools required for working remotely
+This is the first project for sitting up all the tools required for working remotely
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> HTML and CSS
 
 <details>
   <summary>HTML</summary>
@@ -46,21 +44,19 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Key features about this repository
-
 - This repository is just for the purpose of to checking all the required tools for working projects remotely.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> This project does not have any live demo still.
+This project does not have any live demo still.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This repository is just created for practice and sitting up all the require tools for working remotely
+This repository is created for practice and sitting up all the required tools for working remotely
 
 ### Prerequisites
 
@@ -107,7 +103,7 @@ Run This command
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> This project has not any future Features
+This project has not any future Features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,8 +131,6 @@ I would like to thank Microverse for creating such wonderful opportunity for tho
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
 - How to use this repository
 
   - Run this command in your terminal "git clone 
@@ -145,8 +139,6 @@ I would like to thank Microverse for creating such wonderful opportunity for tho
   - it is does not have any special uses
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
